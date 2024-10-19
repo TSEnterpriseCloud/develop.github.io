@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[3617],{9519:s=>{s.exports=JSON.parse('{"tag":{"label":"permissions","permalink":"/docs/tags/permissions","allTagsPath":"/docs/tags","count":1,"items":[{"id":"basics/scopes","title":"Scopes","description":"Request the right permissions","permalink":"/docs/basics/scopes"}],"unlisted":false}}')}}]);
